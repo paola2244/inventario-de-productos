@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\posad\\OneDrive\\Escritorio\\trabajo herramientas\\Inventario-de-Productos-Andreylina0.0.1\\Inventario-de-Productos-Andreylina0.0.1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C031852C-E5B9-4C4E-B805-3CA61F3FDF8F}|InventarioFacturacion\\InventarioFacturacion.csproj|c:\\users\\posad\\onedrive\\escritorio\\trabajo herramientas\\inventario-de-productos-andreylina0.0.1\\inventario-de-productos-andreylina0.0.1\\inventariofacturacion\\vista\\registrarempleado\\registrarempleadovista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C031852C-E5B9-4C4E-B805-3CA61F3FDF8F}|InventarioFacturacion\\InventarioFacturacion.csproj|solutionrelative:inventariofacturacion\\vista\\registrarempleado\\registrarempleadovista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C031852C-E5B9-4C4E-B805-3CA61F3FDF8F}|InventarioFacturacion\\InventarioFacturacion.csproj|c:\\users\\posad\\onedrive\\escritorio\\trabajo herramientas\\inventario-de-productos-andreylina0.0.1\\inventario-de-productos-andreylina0.0.1\\inventariofacturacion\\vista\\registrarempleado\\registrarempleadovista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C031852C-E5B9-4C4E-B805-3CA61F3FDF8F}|InventarioFacturacion\\InventarioFacturacion.csproj|solutionrelative:inventariofacturacion\\vista\\registrarempleado\\registrarempleadovista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RegistrarEmpleadoVista.cs",
+              "DocumentMoniker": "C:\\Users\\posad\\OneDrive\\Escritorio\\trabajo herramientas\\Inventario-de-Productos-Andreylina0.0.1\\Inventario-de-Productos-Andreylina0.0.1\\InventarioFacturacion\\vista\\RegistrarEmpleado\\RegistrarEmpleadoVista.cs",
+              "RelativeDocumentMoniker": "InventarioFacturacion\\vista\\RegistrarEmpleado\\RegistrarEmpleadoVista.cs",
+              "ToolTip": "C:\\Users\\posad\\OneDrive\\Escritorio\\trabajo herramientas\\Inventario-de-Productos-Andreylina0.0.1\\Inventario-de-Productos-Andreylina0.0.1\\InventarioFacturacion\\vista\\RegistrarEmpleado\\RegistrarEmpleadoVista.cs",
+              "RelativeToolTip": "InventarioFacturacion\\vista\\RegistrarEmpleado\\RegistrarEmpleadoVista.cs",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAYwBQAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T21:57:30.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RegistrarEmpleadoVista.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\posad\\OneDrive\\Escritorio\\trabajo herramientas\\Inventario-de-Productos-Andreylina0.0.1\\Inventario-de-Productos-Andreylina0.0.1\\InventarioFacturacion\\vista\\RegistrarEmpleado\\RegistrarEmpleadoVista.cs",
+              "RelativeDocumentMoniker": "InventarioFacturacion\\vista\\RegistrarEmpleado\\RegistrarEmpleadoVista.cs",
+              "ToolTip": "C:\\Users\\posad\\OneDrive\\Escritorio\\trabajo herramientas\\Inventario-de-Productos-Andreylina0.0.1\\Inventario-de-Productos-Andreylina0.0.1\\InventarioFacturacion\\vista\\RegistrarEmpleado\\RegistrarEmpleadoVista.cs [Dise\u00F1o]",
+              "RelativeToolTip": "InventarioFacturacion\\vista\\RegistrarEmpleado\\RegistrarEmpleadoVista.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T21:56:58.815Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
