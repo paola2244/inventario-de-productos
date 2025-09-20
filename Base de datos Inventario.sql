@@ -1,6 +1,9 @@
 
-select * from cargo
-
+INSERT INTO Caja (IdCaja, MontoInicial, MontoFinal, TotalVentasEfectivo, TotalVentasOnline, TotalCaja, Diferencia) 
+VALUES 
+(1, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00),
+(2, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00),
+(3, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00);
 
 CREATE TABLE cargo (
     id_cargo INT PRIMARY KEY IDENTITY,

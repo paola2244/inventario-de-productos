@@ -12,6 +12,17 @@ namespace InventarioFacturacion.vista
 {
     public partial class TurnosVista : Form
     {
+        private readonly int idCajasAsignada;
+        private readonly string EmpresaSelccionada;
+        
+        public TurnosVista(int idCaja, string NombreEmpresa)
+        {
+            InitializeComponent();
+            idCajasAsignada = idCaja;
+            EmpresaSelccionada = NombreEmpresa;
+
+            lblInfo.Text = $"Caja: {idCajasAsignada} - Empresa: {EmpresaSelccionada}";
+        }
         public TurnosVista()
         {
             InitializeComponent();
@@ -25,6 +36,7 @@ namespace InventarioFacturacion.vista
             dtpFinal.CustomFormat = "dd MMM yyyy hh:mm tt";
             dtpFinal.ShowUpDown = true;
         }
+        
 
         private void Turnos_Load(object sender, EventArgs e)
         {

@@ -13,7 +13,8 @@ namespace InventarioFacturacion
             // To customize application configuration such as set high DPI settings or default font,
             // see https://aka.ms/applicationconfiguration.
             ApplicationConfiguration.Initialize();
-            Application.Run(new PrincipalAdministrador());
+            Application.Run(new CajasVistas());
+            //Application.Run(new PrincipalAdministrador());
             
         }
     }

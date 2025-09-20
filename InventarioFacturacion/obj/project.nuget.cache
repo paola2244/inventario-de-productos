@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9VKUfuJVLF0=",
+  "dgSpecHash": "PvSiXv9qias=",
   "success": true,
-  "projectFilePath": "C:\\Users\\posad\\OneDrive\\Escritorio\\trabajo herramientas\\Inventario-de-Productos-Andreylina0.0.1\\Inventario-de-Productos-Andreylina0.0.1\\InventarioFacturacion\\InventarioFacturacion.csproj",
+  "projectFilePath": "C:\\Users\\posad\\OneDrive\\Escritorio\\trabajo herramientas\\Inventario-de-Productos-Andreylina0.0.1\\Inventario-de-Productos-Andreylina0.0.2\\InventarioFacturacion\\InventarioFacturacion.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\posad\\.nuget\\packages\\azure.core\\1.47.1\\azure.core.1.47.1.nupkg.sha512",
     "C:\\Users\\posad\\.nuget\\packages\\azure.identity\\1.14.2\\azure.identity.1.14.2.nupkg.sha512",

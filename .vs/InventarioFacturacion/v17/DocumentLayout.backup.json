@@ -1,18 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\posad\\OneDrive\\Escritorio\\trabajo herramientas\\Inventario-de-Productos-Andreylina0.0.1\\Inventario-de-Productos-Andreylina0.0.1\\",
+  "WorkspaceRootPath": "C:\\Users\\posad\\OneDrive\\Escritorio\\trabajo herramientas\\Inventario-de-Productos-Andreylina0.0.1\\Inventario-de-Productos-Andreylina0.0.2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C031852C-E5B9-4C4E-B805-3CA61F3FDF8F}|InventarioFacturacion\\InventarioFacturacion.csproj|c:\\users\\posad\\onedrive\\escritorio\\trabajo herramientas\\inventario-de-productos-andreylina0.0.1\\inventario-de-productos-andreylina0.0.1\\inventariofacturacion\\vista\\registrarempleado\\registrarempleadovista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C031852C-E5B9-4C4E-B805-3CA61F3FDF8F}|InventarioFacturacion\\InventarioFacturacion.csproj|solutionrelative:inventariofacturacion\\vista\\registrarempleado\\registrarempleadovista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C031852C-E5B9-4C4E-B805-3CA61F3FDF8F}|InventarioFacturacion\\InventarioFacturacion.csproj|c:\\users\\posad\\onedrive\\escritorio\\trabajo herramientas\\inventario-de-productos-andreylina0.0.1\\inventario-de-productos-andreylina0.0.2\\inventariofacturacion\\vista\\turnosvista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C031852C-E5B9-4C4E-B805-3CA61F3FDF8F}|InventarioFacturacion\\InventarioFacturacion.csproj|solutionrelative:inventariofacturacion\\vista\\turnosvista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C031852C-E5B9-4C4E-B805-3CA61F3FDF8F}|InventarioFacturacion\\InventarioFacturacion.csproj|c:\\users\\posad\\onedrive\\escritorio\\trabajo herramientas\\inventario-de-productos-andreylina0.0.1\\inventario-de-productos-andreylina0.0.1\\inventariofacturacion\\vista\\registrarempleado\\registrarempleadovista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{C031852C-E5B9-4C4E-B805-3CA61F3FDF8F}|InventarioFacturacion\\InventarioFacturacion.csproj|solutionrelative:inventariofacturacion\\vista\\registrarempleado\\registrarempleadovista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{C031852C-E5B9-4C4E-B805-3CA61F3FDF8F}|InventarioFacturacion\\InventarioFacturacion.csproj|c:\\users\\posad\\onedrive\\escritorio\\trabajo herramientas\\inventario-de-productos-andreylina0.0.1\\inventario-de-productos-andreylina0.0.2\\inventariofacturacion\\model\\caja.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C031852C-E5B9-4C4E-B805-3CA61F3FDF8F}|InventarioFacturacion\\InventarioFacturacion.csproj|solutionrelative:inventariofacturacion\\model\\caja.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C031852C-E5B9-4C4E-B805-3CA61F3FDF8F}|InventarioFacturacion\\InventarioFacturacion.csproj|c:\\users\\posad\\onedrive\\escritorio\\trabajo herramientas\\inventario-de-productos-andreylina0.0.1\\inventario-de-productos-andreylina0.0.1\\inventariofacturacion\\controller\\personacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C031852C-E5B9-4C4E-B805-3CA61F3FDF8F}|InventarioFacturacion\\InventarioFacturacion.csproj|solutionrelative:inventariofacturacion\\controller\\personacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C031852C-E5B9-4C4E-B805-3CA61F3FDF8F}|InventarioFacturacion\\InventarioFacturacion.csproj|c:\\users\\posad\\onedrive\\escritorio\\trabajo herramientas\\inventario-de-productos-andreylina0.0.1\\inventario-de-productos-andreylina0.0.2\\inventariofacturacion\\vista\\cajasvistas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C031852C-E5B9-4C4E-B805-3CA61F3FDF8F}|InventarioFacturacion\\InventarioFacturacion.csproj|solutionrelative:inventariofacturacion\\vista\\cajasvistas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C031852C-E5B9-4C4E-B805-3CA61F3FDF8F}|InventarioFacturacion\\InventarioFacturacion.csproj|c:\\users\\posad\\onedrive\\escritorio\\trabajo herramientas\\inventario-de-productos-andreylina0.0.1\\inventario-de-productos-andreylina0.0.2\\inventariofacturacion\\vista\\turnosvista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C031852C-E5B9-4C4E-B805-3CA61F3FDF8F}|InventarioFacturacion\\InventarioFacturacion.csproj|solutionrelative:inventariofacturacion\\vista\\turnosvista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C031852C-E5B9-4C4E-B805-3CA61F3FDF8F}|InventarioFacturacion\\InventarioFacturacion.csproj|c:\\users\\posad\\onedrive\\escritorio\\trabajo herramientas\\inventario-de-productos-andreylina0.0.1\\inventario-de-productos-andreylina0.0.2\\inventariofacturacion\\controller\\cajacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C031852C-E5B9-4C4E-B805-3CA61F3FDF8F}|InventarioFacturacion\\InventarioFacturacion.csproj|solutionrelative:inventariofacturacion\\controller\\cajacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,45 +30,71 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "PersonaController.cs",
-              "DocumentMoniker": "C:\\Users\\posad\\OneDrive\\Escritorio\\trabajo herramientas\\Inventario-de-Productos-Andreylina0.0.1\\Inventario-de-Productos-Andreylina0.0.1\\InventarioFacturacion\\Controller\\PersonaController.cs",
-              "RelativeDocumentMoniker": "InventarioFacturacion\\Controller\\PersonaController.cs",
-              "ToolTip": "C:\\Users\\posad\\OneDrive\\Escritorio\\trabajo herramientas\\Inventario-de-Productos-Andreylina0.0.1\\Inventario-de-Productos-Andreylina0.0.1\\InventarioFacturacion\\Controller\\PersonaController.cs",
-              "RelativeToolTip": "InventarioFacturacion\\Controller\\PersonaController.cs",
-              "ViewState": "AgIAAGUAAAAAAAAAAAAEwHsAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-19T21:57:02.933Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "RegistrarEmpleadoVista.cs",
-              "DocumentMoniker": "C:\\Users\\posad\\OneDrive\\Escritorio\\trabajo herramientas\\Inventario-de-Productos-Andreylina0.0.1\\Inventario-de-Productos-Andreylina0.0.1\\InventarioFacturacion\\vista\\RegistrarEmpleado\\RegistrarEmpleadoVista.cs",
-              "RelativeDocumentMoniker": "InventarioFacturacion\\vista\\RegistrarEmpleado\\RegistrarEmpleadoVista.cs",
-              "ToolTip": "C:\\Users\\posad\\OneDrive\\Escritorio\\trabajo herramientas\\Inventario-de-Productos-Andreylina0.0.1\\Inventario-de-Productos-Andreylina0.0.1\\InventarioFacturacion\\vista\\RegistrarEmpleado\\RegistrarEmpleadoVista.cs",
-              "RelativeToolTip": "InventarioFacturacion\\vista\\RegistrarEmpleado\\RegistrarEmpleadoVista.cs",
-              "ViewState": "AgIAAKAAAAAAAAAAAAAiwKMAAAAJAAAAAAAAAA==",
+              "Title": "TurnosVista.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\posad\\OneDrive\\Escritorio\\trabajo herramientas\\Inventario-de-Productos-Andreylina0.0.1\\Inventario-de-Productos-Andreylina0.0.2\\InventarioFacturacion\\vista\\TurnosVista.cs",
+              "RelativeDocumentMoniker": "InventarioFacturacion\\vista\\TurnosVista.cs",
+              "ToolTip": "C:\\Users\\posad\\OneDrive\\Escritorio\\trabajo herramientas\\Inventario-de-Productos-Andreylina0.0.1\\Inventario-de-Productos-Andreylina0.0.2\\InventarioFacturacion\\vista\\TurnosVista.cs [Dise\u00F1o]",
+              "RelativeToolTip": "InventarioFacturacion\\vista\\TurnosVista.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-19T21:57:30.75Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-20T21:47:55.201Z",
+              "EditorCaption": " [Dise\u00F1o]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "RegistrarEmpleadoVista.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\posad\\OneDrive\\Escritorio\\trabajo herramientas\\Inventario-de-Productos-Andreylina0.0.1\\Inventario-de-Productos-Andreylina0.0.1\\InventarioFacturacion\\vista\\RegistrarEmpleado\\RegistrarEmpleadoVista.cs",
-              "RelativeDocumentMoniker": "InventarioFacturacion\\vista\\RegistrarEmpleado\\RegistrarEmpleadoVista.cs",
-              "ToolTip": "C:\\Users\\posad\\OneDrive\\Escritorio\\trabajo herramientas\\Inventario-de-Productos-Andreylina0.0.1\\Inventario-de-Productos-Andreylina0.0.1\\InventarioFacturacion\\vista\\RegistrarEmpleado\\RegistrarEmpleadoVista.cs [Dise\u00F1o]",
-              "RelativeToolTip": "InventarioFacturacion\\vista\\RegistrarEmpleado\\RegistrarEmpleadoVista.cs [Dise\u00F1o]",
+              "Title": "Caja.cs",
+              "DocumentMoniker": "C:\\Users\\posad\\OneDrive\\Escritorio\\trabajo herramientas\\Inventario-de-Productos-Andreylina0.0.1\\Inventario-de-Productos-Andreylina0.0.2\\InventarioFacturacion\\Model\\Caja.cs",
+              "RelativeDocumentMoniker": "InventarioFacturacion\\Model\\Caja.cs",
+              "ToolTip": "C:\\Users\\posad\\OneDrive\\Escritorio\\trabajo herramientas\\Inventario-de-Productos-Andreylina0.0.1\\Inventario-de-Productos-Andreylina0.0.2\\InventarioFacturacion\\Model\\Caja.cs",
+              "RelativeToolTip": "InventarioFacturacion\\Model\\Caja.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAUwA4AAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-19T21:56:58.815Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2025-09-20T21:25:56.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TurnosVista.cs",
+              "DocumentMoniker": "C:\\Users\\posad\\OneDrive\\Escritorio\\trabajo herramientas\\Inventario-de-Productos-Andreylina0.0.1\\Inventario-de-Productos-Andreylina0.0.2\\InventarioFacturacion\\vista\\TurnosVista.cs",
+              "RelativeDocumentMoniker": "InventarioFacturacion\\vista\\TurnosVista.cs",
+              "ToolTip": "C:\\Users\\posad\\OneDrive\\Escritorio\\trabajo herramientas\\Inventario-de-Productos-Andreylina0.0.1\\Inventario-de-Productos-Andreylina0.0.2\\InventarioFacturacion\\vista\\TurnosVista.cs",
+              "RelativeToolTip": "InventarioFacturacion\\vista\\TurnosVista.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwBcAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-20T21:17:18.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CajasVistas.cs",
+              "DocumentMoniker": "C:\\Users\\posad\\OneDrive\\Escritorio\\trabajo herramientas\\Inventario-de-Productos-Andreylina0.0.1\\Inventario-de-Productos-Andreylina0.0.2\\InventarioFacturacion\\vista\\CajasVistas.cs",
+              "RelativeDocumentMoniker": "InventarioFacturacion\\vista\\CajasVistas.cs",
+              "ToolTip": "C:\\Users\\posad\\OneDrive\\Escritorio\\trabajo herramientas\\Inventario-de-Productos-Andreylina0.0.1\\Inventario-de-Productos-Andreylina0.0.2\\InventarioFacturacion\\vista\\CajasVistas.cs",
+              "RelativeToolTip": "InventarioFacturacion\\vista\\CajasVistas.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwFAAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-20T20:52:31.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CajaController.cs",
+              "DocumentMoniker": "C:\\Users\\posad\\OneDrive\\Escritorio\\trabajo herramientas\\Inventario-de-Productos-Andreylina0.0.1\\Inventario-de-Productos-Andreylina0.0.2\\InventarioFacturacion\\Controller\\CajaController.cs",
+              "RelativeDocumentMoniker": "InventarioFacturacion\\Controller\\CajaController.cs",
+              "ToolTip": "C:\\Users\\posad\\OneDrive\\Escritorio\\trabajo herramientas\\Inventario-de-Productos-Andreylina0.0.1\\Inventario-de-Productos-Andreylina0.0.2\\InventarioFacturacion\\Controller\\CajaController.cs",
+              "RelativeToolTip": "InventarioFacturacion\\Controller\\CajaController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAUwCkAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-20T20:34:07.561Z",
+              "EditorCaption": ""
             }
           ]
         }
